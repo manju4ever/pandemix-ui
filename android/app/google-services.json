@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507564794352",
+    "firebase_url": "https://pandemix-blr.firebaseio.com",
+    "project_id": "pandemix-blr",
+    "storage_bucket": "pandemix-blr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507564794352:android:6ebc48aeb0e482b9f27d35",
+        "android_client_info": {
+          "package_name": "com.bl.pandemix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507564794352-mm9nekk5th30pmjgra49pen3bujv6ppp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bl.pandemix",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "507564794352-ipgj2rr7445a7mgl7b0b4h3ttuvectbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GwwK7B0tHySAGGTun4Fcl9X3j691ZEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507564794352-ipgj2rr7445a7mgl7b0b4h3ttuvectbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

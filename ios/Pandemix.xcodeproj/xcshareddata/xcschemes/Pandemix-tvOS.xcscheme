@@ -1,0 +1,88 @@
+<?xml versiPandemix="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersiPandemix = "1130"
+   versiPandemix = "1.3">
+   <BuildActiPandemix
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActiPandemixEntries>
+         <BuildActiPandemixEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
+               BuildableName = "Pandemix-tvOS.app"
+               BlueprintName = "Pandemix-tvOS"
+               ReferencedCPandemixtainer = "cPandemixtainer:Pandemix.xcodeproj">
+            </BuildableReference>
+         </BuildActiPandemixEntry>
+      </BuildActiPandemixEntries>
+   </BuildActiPandemix>
+   <TestActiPandemix
+      buildCPandemixfiguratiPandemix = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundatiPandemix.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundatiPandemix.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
+               BuildableName = "Pandemix-tvOSTests.xctest"
+               BlueprintName = "Pandemix-tvOSTests"
+               ReferencedCPandemixtainer = "cPandemixtainer:Pandemix.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestActiPandemix>
+   <LaunchActiPandemix
+      buildCPandemixfiguratiPandemix = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundatiPandemix.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundatiPandemix.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersiPandemixing = "YES"
+      debugServiceExtensiPandemix = "internal"
+      allowLocatiPandemixSimulatiPandemix = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
+            BuildableName = "Pandemix-tvOS.app"
+            BlueprintName = "Pandemix-tvOS"
+            ReferencedCPandemixtainer = "cPandemixtainer:Pandemix.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchActiPandemix>
+   <ProfileActiPandemix
+      buildCPandemixfiguratiPandemix = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersiPandemixing = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
+            BuildableName = "Pandemix-tvOS.app"
+            BlueprintName = "Pandemix-tvOS"
+            ReferencedCPandemixtainer = "cPandemixtainer:Pandemix.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileActiPandemix>
+   <AnalyzeActiPandemix
+      buildCPandemixfiguratiPandemix = "Debug">
+   </AnalyzeActiPandemix>
+   <ArchiveActiPandemix
+      buildCPandemixfiguratiPandemix = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveActiPandemix>
+</Scheme>

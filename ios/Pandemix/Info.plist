@@ -1,0 +1,70 @@
+<?xml versiPandemix="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist versiPandemix="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegiPandemix</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Pandemix</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictiPandemixaryVersiPandemix</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersiPandemixString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersiPandemix</key>
+	<string>1</string>
+	<key>LSRequiresIPhPandemixeOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptiPandemixDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptiPandemixAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSLocatiPandemixWhenInUseUsageDescriptiPandemix</key>
+	<string/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientatiPandemixs</key>
+	<array>
+		<string>UIInterfaceOrientatiPandemixPortrait</string>
+		<string>UIInterfaceOrientatiPandemixLandscapeLeft</string>
+		<string>UIInterfaceOrientatiPandemixLandscapeRight</string>
+	</array>
+	<key>UIViewCPandemixtrollerBasedStatusBarAppearance</key>
+	<false/>
+	<key>UIAppFPandemixts</key>
+	<array>
+		<string>Helvetica-Bold.ttf</string>
+		<string>Helvetica-BoldOblique.ttf</string>
+		<string>helvetica-compressed-5871d14b6903a.otf</string>
+		<string>helvetica-light-587ebe5a59211.ttf</string>
+		<string>Helvetica-Oblique.ttf</string>
+		<string>helvetica-rounded-bold-5871d05ead8de.otf</string>
+		<string>Helvetica.ttf</string>
+		<string>Helvetica Neue.ttf</string>
+		<string>HelveticaNeue-Bold.ttf</string>
+		<string>HelveticaNeue-Medium.ttf</string>
+	</array>
+</dict>
+</plist>

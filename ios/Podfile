@@ -1,0 +1,81 @@
+platform :ios, '9.0'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+def add_flipper_pods!
+  versiPandemix = '~> 0.33.1'
+  pod 'FlipperKit', versiPandemix, :cPandemixfiguratiPandemix => 'Debug'
+  pod 'FlipperKit/FlipperKitLayoutPlugin', versiPandemix, :cPandemixfiguratiPandemix => 'Debug'
+  pod 'FlipperKit/SKIOSNetworkPlugin', versiPandemix, :cPandemixfiguratiPandemix => 'Debug'
+  pod 'FlipperKit/FlipperKitUserDefaultsPlugin', versiPandemix, :cPandemixfiguratiPandemix => 'Debug'
+  pod 'FlipperKit/FlipperKitReactPlugin', versiPandemix, :cPandemixfiguratiPandemix => 'Debug'
+end
+
+# Post Install processing for Flipper
+def flipper_post_install(installer)
+  installer.pods_project.targets.each do |target|
+    if target.name == 'YogaKit'
+      target.build_cPandemixfiguratiPandemixs.each do |cPandemixfig|
+        cPandemixfig.build_settings['SWIFT_VERSION'] = '4.1'
+      end
+    end
+  end
+end
+
+target 'Pandemix' do
+  # Pods for Pandemix
+  pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
+  pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
+  pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
+  pod 'RCTTypeSafety', :path => "../node_modules/react-native/Libraries/TypeSafety"
+  pod 'React', :path => '../node_modules/react-native/'
+  pod 'React-Core', :path => '../node_modules/react-native/'
+  pod 'React-CoreModules', :path => '../node_modules/react-native/React/CoreModules'
+  pod 'React-Core/DevSupport', :path => '../node_modules/react-native/'
+  pod 'React-RCTActiPandemixSheet', :path => '../node_modules/react-native/Libraries/ActiPandemixSheetIOS'
+  pod 'React-RCTAnimatiPandemix', :path => '../node_modules/react-native/Libraries/NativeAnimatiPandemix'
+  pod 'React-RCTBlob', :path => '../node_modules/react-native/Libraries/Blob'
+  pod 'React-RCTImage', :path => '../node_modules/react-native/Libraries/Image'
+  pod 'React-RCTLinking', :path => '../node_modules/react-native/Libraries/LinkingIOS'
+  pod 'React-RCTNetwork', :path => '../node_modules/react-native/Libraries/Network'
+  pod 'React-RCTSettings', :path => '../node_modules/react-native/Libraries/Settings'
+  pod 'React-RCTText', :path => '../node_modules/react-native/Libraries/Text'
+  pod 'React-RCTVibratiPandemix', :path => '../node_modules/react-native/Libraries/VibratiPandemix'
+  pod 'React-Core/RCTWebSocket', :path => '../node_modules/react-native/'
+
+  pod 'React-cxxreact', :path => '../node_modules/react-native/ReactCommPandemix/cxxreact'
+  pod 'React-jsi', :path => '../node_modules/react-native/ReactCommPandemix/jsi'
+  pod 'React-jsiexecutor', :path => '../node_modules/react-native/ReactCommPandemix/jsiexecutor'
+  pod 'React-jsinspector', :path => '../node_modules/react-native/ReactCommPandemix/jsinspector'
+  pod 'ReactCommPandemix/callinvoker', :path => "../node_modules/react-native/ReactCommPandemix"
+  pod 'ReactCommPandemix/turbomodule/core', :path => "../node_modules/react-native/ReactCommPandemix"
+  pod 'Yoga', :path => '../node_modules/react-native/ReactCommPandemix/yoga', :modular_headers => true
+
+  pod 'DoubleCPandemixversiPandemix', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleCPandemixversiPandemix.podspec'
+  pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
+  pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
+
+  target 'PandemixTests' do
+    inherit! :complete
+    # Pods for testing
+  end
+
+  use_native_modules!
+
+  # Enables Flipper.
+  #
+  # Note that if you have use_frameworks! enabled, Flipper will not work and
+  # you should disable these next few lines.
+  add_flipper_pods!
+  post_install do |installer|
+    flipper_post_install(installer)
+  end
+end
+
+target 'Pandemix-tvOS' do
+  # Pods for Pandemix-tvOS
+
+  target 'Pandemix-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+end
