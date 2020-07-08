@@ -1,16 +1,18 @@
 # Pandemic Tracker
-Why did we develope this application?
-  Kindly take 2 minutes of your time to watch the demo video where we explained why did we develope this application.
-  
-  # Video Link: " https://youtu.be/RbR7SC-k07o "
+Why did we develop this application?
 
+Kindly take 2 minutes of your time to watch the demo video where we explained why did we develop this application.
+
+# Video Link: " https://youtu.be/RbR7SC-k07o "
 
 ### Indroduction
 In the face of rapidly rising numbers of infected Covid-19 cases globally and the various mitigation approaches adoption by different countries, timely/early detection is the key and technology can be an efficient and scalable tool to arm the common people, the authorities, health professional and the government in establishing a way to enable ‘contact tracing’ which today is a tedious manual process and requires a huge amount of time and investment with inherent delays preventing the tracking of possible infected cases from day zero. 
 The proposed ‘Pandemic Tracker’ will help in easy ‘contact tracing’ to identify a possibly infected person from Day Zero and also provide a common user and authorities app notifications of such contact in the last 14 days, instead of waiting for symptomatic alerts which appear only after 4-5 days of infection.  It will provide real time, automated notifications and reports to an individual user based on his/her contact network as well as real time, aggregated reports to the authorities.
-# PROBLEM
+
+## PROBLEM
 The challenge for Indian and Karnataka Government is, tracking the people who came in contact with COVID-19 positive person in past 14 days.
-# SOLUTION
+
+## SOLUTION
 An application called 'Pandemic Tracker' is developed. The Goal is to track the people who were in contact with the COVID-19 positive tested person in the past 14 days.
 
 # WORK-FLOW
@@ -28,7 +30,9 @@ An application called 'Pandemic Tracker' is developed. The Goal is to track the 
   12.	The Web application is being developed by the team, only for government officials to keep track of the COVID-19 positive people and all the possible victims in real-time.
       a.	The officials can filter the data according to State/ City/ Postal Code. (This is under development)
 
-## ADVANTAGES
+# UI Designs.
+![](images/Pandemic_UI.PNG)
+# ADVANTAGES
 The application is beneficial to both government and public. 
   1.	It adds value to the government in the following areas:
     a.	To do root cause analysis of the person might have got contagious. 
@@ -46,7 +50,7 @@ The application is beneficial to both government and public.
     c.	Get real-time notifications if the user has crossed the paths with COVID-19 person.
     d.	Check how many COVID-19 victims the user is surrounded with at his current location.
 
-## CAVEATS
+# CAVEATS
 There are few limitations of the application we have developed. Few of them can be achieved with the help of Government and few are really very tough to overcome.
   •	It is responsibility of the user to be very careful before user updates the COVID-19 Status to positive.
   •	Difficult to find the location history of the people who are already COVID-19 positive.
@@ -71,15 +75,18 @@ We are planning to add the additional functionalities to the application but as 
 To keep the user engaged with the application we will keep pushing him the local notifications (sent from the Client Side), Latest news and updates from the government and Global notifications (sent from the Server Side).
 
 ### What we need from you?
-  We are highly motivated to share our codebase with the community and request you to improve in any way possible.
-  Develope a calling facility within the application. Ex: if we detect any person was in contact with COVID-19 +ve person in past 14days, we would like to alert him by          providinfg in app calling facility. By this we can achieve the highest security level, by not collecting any information (phone number, email id) from the user.
+•	Kindly share this with your friend and family who might be interested to contribute for the welfare of the society.
+•	We are highly motivated to share our codebase with the community and request you to improve in any way possible.
+•	Develop a calling facility within the application. Ex: if we detect any person was in contact with COVID-19 positive person in past 14days, we would like to alert him by providing in app calling facility. By this we can achieve the highest security level, by not collecting any information (phone number, email id) from the user.
 
 # Application Working live Demo
-
-Here is the video of how the app functions. Real time demo of the application.
+  Here is the video of how the app functions. Real time demo of the application.
 # Video Link: "https://youtu.be/k4Y7OJoEiTk"
 
-This is the UI layer for pandemix. This is implemented through react-native.
+# This is implemented through react-native. The Android build is ready and IoS build will be ready soon. 
+
+
+ 
 
 
 
