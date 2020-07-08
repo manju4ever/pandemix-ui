@@ -9,10 +9,10 @@ Kindly take 2 minutes of your time to watch the demo video where we explained wh
 In the face of rapidly rising numbers of infected Covid-19 cases globally and the various mitigation approaches adoption by different countries, timely/early detection is the key and technology can be an efficient and scalable tool to arm the common people, the authorities, health professional and the government in establishing a way to enable ‘contact tracing’ which today is a tedious manual process and requires a huge amount of time and investment with inherent delays preventing the tracking of possible infected cases from day zero. 
 The proposed ‘Pandemic Tracker’ will help in easy ‘contact tracing’ to identify a possibly infected person from Day Zero and also provide a common user and authorities app notifications of such contact in the last 14 days, instead of waiting for symptomatic alerts which appear only after 4-5 days of infection.  It will provide real time, automated notifications and reports to an individual user based on his/her contact network as well as real time, aggregated reports to the authorities.
 
-## PROBLEM
+# PROBLEM
 The challenge for Indian and Karnataka Government is, tracking the people who came in contact with COVID-19 positive person in past 14 days.
 
-## SOLUTION
+# SOLUTION
 An application called 'Pandemic Tracker' is developed. The Goal is to track the people who were in contact with the COVID-19 positive tested person in the past 14 days.
 
 # WORK-FLOW
@@ -74,7 +74,7 @@ We are planning to add the additional functionalities to the application but as 
 # USER RETENTATION
 To keep the user engaged with the application we will keep pushing him the local notifications (sent from the Client Side), Latest news and updates from the government and Global notifications (sent from the Server Side).
 
-### What we need from you?
+# What we need from you?
 •	Kindly share this with your friend and family who might be interested to contribute for the welfare of the society.
 •	We are highly motivated to share our codebase with the community and request you to improve in any way possible.
 •	Develop a calling facility within the application. Ex: if we detect any person was in contact with COVID-19 positive person in past 14days, we would like to alert him by providing in app calling facility. By this we can achieve the highest security level, by not collecting any information (phone number, email id) from the user.
@@ -83,7 +83,7 @@ To keep the user engaged with the application we will keep pushing him the local
   Here is the video of how the app functions. Real time demo of the application.
 # Video Link: "https://youtu.be/k4Y7OJoEiTk"
 
-# This is implemented through react-native. The Android build is ready and IoS build will be ready soon. 
+This is implemented through react-native. The Android build is ready and IoS build will be ready soon. 
 
 
  
