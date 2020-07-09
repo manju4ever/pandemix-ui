@@ -3,10 +3,11 @@ Why did we develop this application?
 
 Kindly take 2 minutes of your time to watch the demo video where we explained why did we develop this application.
 
-# Video Link: " https://youtu.be/RbR7SC-k07o "
+## Video Link: " https://youtu.be/RbR7SC-k07o "
 
 ### Indroduction
 In the face of rapidly rising numbers of infected Covid-19 cases globally and the various mitigation approaches adoption by different countries, timely/early detection is the key and technology can be an efficient and scalable tool to arm the common people, the authorities, health professional and the government in establishing a way to enable ‘contact tracing’ which today is a tedious manual process and requires a huge amount of time and investment with inherent delays preventing the tracking of possible infected cases from day zero. 
+
 The proposed ‘Pandemic Tracker’ will help in easy ‘contact tracing’ to identify a possibly infected person from Day Zero and also provide a common user and authorities app notifications of such contact in the last 14 days, instead of waiting for symptomatic alerts which appear only after 4-5 days of infection.  It will provide real time, automated notifications and reports to an individual user based on his/her contact network as well as real time, aggregated reports to the authorities.
 
 # PROBLEM
@@ -15,8 +16,12 @@ The challenge for Indian and Karnataka Government is, tracking the people who ca
 # SOLUTION
 An application called 'Pandemic Tracker' is developed. The Goal is to track the people who were in contact with the COVID-19 positive tested person in the past 14 days.
 
+## Application Screens
+
+<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Screen1.jpg" width="100" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/register.jpeg" width="100" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/verification.jpeg" width="100" />    <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/login.jpeg" width="100" />      <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/maps.jpeg" width="110" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/no-of-affected.jpeg" width="120" />    <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/heatmap.jpeg" width="108" />      <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/app-notifications.jpeg" width="110" /> 
+
 # WORK-FLOW
-  *	User Downloads the Application.
+  *	User Downloads the Application. 
   *	A unique identification number is tagged to the user.
   *	Registers with his mobile number. (We want to avoid this going forward)
   *	Login.
@@ -30,8 +35,10 @@ An application called 'Pandemic Tracker' is developed. The Goal is to track the 
   *	The Web application is being developed by the team, only for government officials to keep track of the COVID-19 positive people and all the possible victims in real-time.
       *	The officials can filter the data according to State/ City/ Postal Code. (This is under development)
 
-# UI Designs.
-![](images/Pandemic_UI.PNG)
+# Workflow Screens.
+
+<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Pandemic_UI.PNG" width="400" />
+
 # ADVANTAGES
 The application is beneficial to both government and public. 
   *	It adds value to the government in the following areas:
@@ -44,7 +51,7 @@ The application is beneficial to both government and public.
     *	If the user was suffering from any chronic diseases before.
     *	What was the primary symptoms the user started showing.
     *	All the possible ad-hoc analysis on the data we collect. Helps us to make quick data driven decisions.
-  *	It adds value to the Public in the following areas:
+    *	It adds value to the Public in the following areas:
     *	Get the latest updates from the Governments, This helps the user listen only true facts. 
     *	Check if the area user is travelling is safe or not or How safe it is?
     *	Get real-time notifications if the user has crossed the paths with COVID-19 person.
@@ -81,7 +88,7 @@ To keep the user engaged with the application we will keep pushing him the local
 
 # Application Working live Demo
   Here is the video of how the app functions. Real time demo of the application.
-# Video Link: "https://youtu.be/k4Y7OJoEiTk"
+## Video Link: "https://youtu.be/k4Y7OJoEiTk"
 
 This is implemented through react-native. The Android build is ready and IoS build will be ready soon. 
 
