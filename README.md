@@ -3,9 +3,8 @@ Why did we develop this application?
 
 Kindly take 2 minutes of your time to watch the demo video where we explained why did we develop this application.
 
-## Product Explanation Video: 
+## [Product Explanation Video](https://youtu.be/RbR7SC-k07o)
 
-https://youtu.be/RbR7SC-k07o 
 
 ### Indroduction
 In the face of rapidly rising numbers of infected Covid-19 cases globally and the various mitigation approaches adoption by different countries, timely/early detection is the key and technology can be an efficient and scalable tool to arm the common people, the authorities, health professional and the government in establishing a way to enable ‘contact tracing’ which today is a tedious manual process and requires a huge amount of time and investment with inherent delays preventing the tracking of possible infected cases from day zero. 
@@ -88,8 +87,7 @@ To keep the user engaged with the application we will keep pushing him the local
 *	We are highly motivated to share our codebase with the community and request you to improve in any way possible.
 *	Develop a calling facility within the application. Ex: if we detect any person was in contact with COVID-19 positive person in past 14days, we would like to alert him by providing in app calling facility. By this we can achieve the highest security level, by not collecting any information (phone number, email id) from the user.
 
-# Demo Video Link
- "https://youtu.be/k4Y7OJoEiTk"
+## [Demo Video Link](https://youtu.be/k4Y7OJoEiTk)
 
 This is implemented through react-native. The Android build is ready and IoS build will be ready soon. 
 
