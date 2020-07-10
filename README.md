@@ -3,7 +3,7 @@ Why did we develop this application?
 
 Kindly take 2 minutes of your time to watch the demo video where we explained why did we develop this application.
 
-## [Product Explanation Video](https://youtu.be/RbR7SC-k07o)
+## [Product Explanation Video](https://youtu.be/RbR7SC-k07o "youtube")
 
 
 ### Indroduction
@@ -87,7 +87,7 @@ To keep the user engaged with the application we will keep pushing him the local
 *	We are highly motivated to share our codebase with the community and request you to improve in any way possible.
 *	Develop a calling facility within the application. Ex: if we detect any person was in contact with COVID-19 positive person in past 14days, we would like to alert him by providing in app calling facility. By this we can achieve the highest security level, by not collecting any information (phone number, email id) from the user.
 
-## [Demo Video Link](https://youtu.be/k4Y7OJoEiTk)
+## [Demo Video Link](https://youtu.be/k4Y7OJoEiTk "redirects to youtube")
 
 This is implemented through react-native. The Android build is ready and IoS build will be ready soon. 
 
