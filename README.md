@@ -1,6 +1,6 @@
 # Pandemic Tracker
 
-<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Screen1.jpg" width="100" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/register.jpeg" width="100" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/verification.jpeg" width="100" />    <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/login.jpeg" width="100" />      <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/maps.jpeg" width="110" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/no-of-affected.jpeg" width="120" />    <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/heatmap.jpeg" width="108" />      <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/app-notifications.jpeg" width="110" /> 
+<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Screen1.jpg" width="100" />   <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/maps.jpeg" width="110" />  <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/no-of-affected.jpeg" width="120" />    <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/heatmap.jpeg" width="108" />      <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/app-notifications.jpeg" width="110" /> 
 
 
 ## [Demo Video Link](https://youtu.be/k4Y7OJoEiTk "redirects to youtube")
