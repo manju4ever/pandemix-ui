@@ -1,5 +1,10 @@
 # Pandemic Tracker
-Why did we develop this application?
+
+<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Pandemic_UI.PNG" width="400" />
+
+## [Demo Video Link](https://youtu.be/k4Y7OJoEiTk "redirects to youtube")
+
+### Why did we develop this application?
 
 Kindly take 2 minutes of your time to watch the demo video where we explained why did we develop this application.
 
@@ -36,9 +41,6 @@ An application called 'Pandemic Tracker' is developed. The Goal is to track the 
   *	The Web application is being developed by the team, only for government officials to keep track of the COVID-19 positive people and all the possible victims in real-time.
       *	The officials can filter the data according to State/ City/ Postal Code. (This is under development)
 
-# Workflow Screens.
-
-<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Pandemic_UI.PNG" width="400" />
 
 # ADVANTAGES
 The application is beneficial to both government and public. 
@@ -87,7 +89,6 @@ To keep the user engaged with the application we will keep pushing him the local
 *	We are highly motivated to share our codebase with the community and request you to improve in any way possible.
 *	Develop a calling facility within the application. Ex: if we detect any person was in contact with COVID-19 positive person in past 14days, we would like to alert him by providing in app calling facility. By this we can achieve the highest security level, by not collecting any information (phone number, email id) from the user.
 
-## [Demo Video Link](https://youtu.be/k4Y7OJoEiTk "redirects to youtube")
 
 This is implemented through react-native. The Android build is ready and IoS build will be ready soon. 
 
