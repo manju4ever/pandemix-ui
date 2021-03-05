@@ -1,6 +1,7 @@
 # Pandemic Tracker
 
-<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Pandemic_UI.PNG" width="400" />
+<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Screen1.jpg" width="100" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/register.jpeg" width="100" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/verification.jpeg" width="100" />    <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/login.jpeg" width="100" />      <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/maps.jpeg" width="110" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/no-of-affected.jpeg" width="120" />    <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/heatmap.jpeg" width="108" />      <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/app-notifications.jpeg" width="110" /> 
+
 
 ## [Demo Video Link](https://youtu.be/k4Y7OJoEiTk "redirects to youtube")
 
@@ -11,11 +12,6 @@ Kindly take 2 minutes of your time to watch the demo video where we explained wh
 ## [Product Explanation Video](https://youtu.be/RbR7SC-k07o "youtube")
 
 
-### Indroduction
-In the face of rapidly rising numbers of infected Covid-19 cases globally and the various mitigation approaches adoption by different countries, timely/early detection is the key and technology can be an efficient and scalable tool to arm the common people, the authorities, health professional and the government in establishing a way to enable ‘contact tracing’ which today is a tedious manual process and requires a huge amount of time and investment with inherent delays preventing the tracking of possible infected cases from day zero. 
-
-The proposed ‘Pandemic Tracker’ will help in easy ‘contact tracing’ to identify a possibly infected person from Day Zero and also provide a common user and authorities app notifications of such contact in the last 14 days, instead of waiting for symptomatic alerts which appear only after 4-5 days of infection.  It will provide real time, automated notifications and reports to an individual user based on his/her contact network as well as real time, aggregated reports to the authorities.
-
 # PROBLEM
 The challenge for Indian and Karnataka Government is, tracking the people who came in contact with COVID-19 positive person in past 14 days.
 
@@ -23,8 +19,6 @@ The challenge for Indian and Karnataka Government is, tracking the people who ca
 An application called 'Pandemic Tracker' is developed. The Goal is to track the people who were in contact with the COVID-19 positive tested person in the past 14 days.
 
 ## Application Screens
-
-<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Screen1.jpg" width="100" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/register.jpeg" width="100" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/verification.jpeg" width="100" />    <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/login.jpeg" width="100" />      <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/maps.jpeg" width="110" />     <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/no-of-affected.jpeg" width="120" />    <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/heatmap.jpeg" width="108" />      <img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/app-notifications.jpeg" width="110" /> 
 
 # WORK-FLOW
   *	User Downloads the Application. 
@@ -41,6 +35,9 @@ An application called 'Pandemic Tracker' is developed. The Goal is to track the 
   *	The Web application is being developed by the team, only for government officials to keep track of the COVID-19 positive people and all the possible victims in real-time.
       *	The officials can filter the data according to State/ City/ Postal Code. (This is under development)
 
+# User Workflow Screens
+
+<img src="https://github.com/manju4ever/pandemix-ui/blob/master/images/Pandemic_UI.PNG" width="400" />
 
 # ADVANTAGES
 The application is beneficial to both government and public. 
@@ -90,8 +87,7 @@ To keep the user engaged with the application we will keep pushing him the local
 *	Develop a calling facility within the application. Ex: if we detect any person was in contact with COVID-19 positive person in past 14days, we would like to alert him by providing in app calling facility. By this we can achieve the highest security level, by not collecting any information (phone number, email id) from the user.
 
 
-This is implemented through react-native. The Android build is ready and IoS build will be ready soon. 
-
+This is implemented ijn react-native. The Android build is ready and iOS build will be released soon.
 
  
 
