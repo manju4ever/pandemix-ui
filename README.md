@@ -78,7 +78,7 @@ We are planning to add the additional functionalities to the application but as 
   *	An alert to be sent if the user is surrounded by COVID-19 positive person within 500 meters range.
   *	Measure the body temperature of the user if the user device has heat sensors and allow user to synchronize, he/she’s smart watch with the application.
 
-# USER RETENTATION
+# USER RETENTION
 To keep the user engaged with the application we will keep pushing him the local notifications (sent from the Client Side), Latest news and updates from the government and Global notifications (sent from the Server Side).
 
 # What we need from you?
